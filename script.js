@@ -1,10 +1,20 @@
 // Циклы
 
 
-let sifra = +prompt('Vvedite sifru');
-let stepen = +prompt('Vdeti stepen');
+let level0 = prompt('Vvedite chto xotite');
+console.log(level0);
 
-alert(`${sifra ** stepen}`)
+let level1 = prompt('Vvedite chto xotite');
+console.log(level1);
+
+let level2 = prompt('Vvedite chto xotite');
+console.log(level2);
+
+let level3 = prompt('Vvedite chto xotite');
+console.log(level3);
+
+let level4 = prompt('Vvedite chto xotite');
+console.log(level4);
 
 
 
@@ -13,6 +23,7 @@ alert(`${sifra ** stepen}`)
 
 
 
+    // ******************
 // let num = +prompt('Vvedite sifru');
 // let num1 = +prompt('Vvedite sifru');
 
@@ -27,6 +38,7 @@ alert(`${sifra ** stepen}`)
 
 // alert(admin);
 
+    // ****************
 
 // let age = prompt('Skolko tebe let', 100);
 
@@ -36,3 +48,9 @@ alert(`${sifra ** stepen}`)
 
 // alert(`${name}`);
 
+        // ******
+
+// let sifra = +prompt('Vvedite sifru');
+// let stepen = +prompt('Vdeti stepen');
+
+// alert(`${sifra ** stepen}`)
